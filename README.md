@@ -1,5 +1,3 @@
-![](https://i.imgur.com/DObjRtF.png)
-
 # why use docker:
 
 it easily install and run any software without worrring about setup or dependencies
